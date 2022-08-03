@@ -1,2 +1,2 @@
-# Unicompiler-Task-1
+# Unicompiler Internship-Task-1
 Number Guessing Game
